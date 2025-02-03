@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📱 Digital Tasbih App
 
 A Flutter-based Tasbih (Tasbeeh) Counter that mimics a real digital tasbih device, complete with sound, vibration, and a modern UI.
@@ -81,3 +82,6 @@ Pull requests are welcome! If you'd like to add features or fix bugs, feel free 
 
 🔹 Developed with Flutter & GetX | ⭐ Star this repo if you found it useful!
 
+=======
+# Tasbih-App
+>>>>>>> 7877721e1bfcd7d532a7e5f606751210f534fb3c
